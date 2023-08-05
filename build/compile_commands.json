@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/dha/Desktop/Takagi/takagi/build",
-  "command": "C:\\PROGRA~2\\mingw64\\bin\\gcc.exe -IC:/Users/dha/Desktop/Takagi/takagi/include -g -o CMakeFiles\\takagi.dir\\src\\main.c.obj -c C:\\Users\\dha\\Desktop\\Takagi\\takagi\\src\\main.c",
-  "file": "C:\\Users\\dha\\Desktop\\Takagi\\takagi\\src\\main.c",
-  "output": "CMakeFiles\\takagi.dir\\src\\main.c.obj"
-}
-]
